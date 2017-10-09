@@ -1,5 +1,5 @@
-# chatXR
-A chat room written in react and initialed with [create-react-app](https://github.com/facebookincubator/create-react-app)
+# Allin
+Contains all my daily interests, written in react and initialed with [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ## personal configuration
 some configuration need to be set manully:  
